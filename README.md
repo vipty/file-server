@@ -14,6 +14,6 @@ to upload files in the same local network, if you are using mobile device, just 
 # how to run
 just one command
 ```shell
-git clone https://github.com/vipty/file-server.git && cd file-server && pip install -r requirements.txt && python app.py
+git clone https://github.com/vipty/file-server.git && cd file-server && mkdir upload && pip install -r requirements.txt && python app.py
 ```
 # file-server
